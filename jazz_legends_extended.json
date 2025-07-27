@@ -1,0 +1,52 @@
+[
+  {
+    "Artist": "Louis Armstrong",
+    "Decade": "1920s",
+    "FamousWork": "What a Wonderful World",
+    "Instrument": "Trumpet",
+    "Birthplace": "New Orleans",
+    "Lat": 29.9511,
+    "Lng": -90.0715,
+    "YouTube": "https://www.youtube.com/watch?v=CWzrABouyeE"
+  },
+  {
+    "Artist": "Duke Ellington",
+    "Decade": "1930s",
+    "FamousWork": "Take the 'A' Train",
+    "Instrument": "Piano",
+    "Birthplace": "Washington D.C.",
+    "Lat": 38.9072,
+    "Lng": -77.0369,
+    "YouTube": "https://www.youtube.com/watch?v=cb2w2m1JmCY"
+  },
+  {
+    "Artist": "Miles Davis",
+    "Decade": "1950s",
+    "FamousWork": "Kind of Blue",
+    "Instrument": "Trumpet",
+    "Birthplace": "Alton, IL",
+    "Lat": 38.8906,
+    "Lng": -90.1843,
+    "YouTube": "https://www.youtube.com/watch?v=ylXk1LBvIqU"
+  },
+  {
+    "Artist": "John Coltrane",
+    "Decade": "1960s",
+    "FamousWork": "A Love Supreme",
+    "Instrument": "Saxophone",
+    "Birthplace": "Hamlet, NC",
+    "Lat": 34.8893,
+    "Lng": -79.7064,
+    "YouTube": "https://www.youtube.com/watch?v=clC6cgoh1sU"
+  },
+  {
+    "Artist": "Ella Fitzgerald",
+    "Decade": "1940s",
+    "FamousWork": "Summertime",
+    "Instrument": "Vocals",
+    "Birthplace": "Newport News, VA",
+    "Lat": 36.9788,
+    "Lng": -76.428,
+    "YouTube": "https://www.youtube.com/watch?v=u2bigf337aU"
+  }
+]
